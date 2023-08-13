@@ -1,11 +1,11 @@
 [  
 ![](https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png)](https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png)
 
-#### Hi there 👋, I am Parishi Jain
+#### Hi there 👋, I am Abhinav Malik
 
 
-                                                    Parishi Jain ✨
-                      Web Developer | Open Source Enthusiast | Explorer | Competitive Programmer
+                                                    Abhinav Malik ✨
+                                   Web Developer  | Explorer | Competitive Programmer
 
 
 
@@ -14,14 +14,14 @@
 -   🎓  I'm pursuing my Btech in Computer Science and Engineering from Meerut Institute of Engineering and Technology, Meerut.
 -   🌱  I’m currently learning Web Development & DSA.
 -  ✍🏻 I Love Competitive programming and have a good knowledge of C, C++.
-- ✍🏻 # Microsoft Certified: [Azure Fundamentals](https://drive.google.com/file/d/1tYCOcvtObtzRjTnT1Os8aBTRn1S_yF1Y/view)
-- ✍🏻 # Microsoft Certified: [Power Platform Fundamentals](https://drive.google.com/file/d/1jlkry-98rHWWxFriWGVyV0jzVpwwIf5x/view)
+- ✍🏻 # Microsoft Certified: [Azure Fundamentals](https://drive.google.com/file/d/1rLs8BBNkqZ3KTXDqJ78_924Xh12RGiSC/view?usp=sharing)
+- ✍🏻 # Microsoft Certified: [Power Platform Fundamentals](https://drive.google.com/file/d/1ETdEQR0WdcnoF7jpMCpWFuBpOALvH3zQ/view?usp=sharing)
 -   💬  Ask me about C, C++, HTML, CSS, JavaScript, BootStrap.
--   📃  Resume -  [Resume](https://drive.google.com/file/d/1RNojFjhIVI6uNDaBO1sWWKdELxsnJNbf/view?usp=sharing)
--   😄  Pronouns: She/Her
+-   📃  Resume -  [Resume](https://drive.google.com/file/d/1sJWi8-DVXCrVWFjCEjUW2hcM2iiD_3qK/view?usp=sharing)
+-   😄  Pronouns: He/him
 
 ### Connect with me:
- [![](https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/parishi-jain-bbb218210/)[![](https://camo.githubusercontent.com/420d9987aff329ec814250dc94ee265a58cb8374b59c026c004287f037bc2672/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d2532333041304130412e7376673f267374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465)  ](https://github.com/parishi-02)[![](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:parishijainiit@gmail.com) 
+ [![](https://camo.githubusercontent.com/1598532a3542326fff0ea5e0481f39287c1a1a201b07b4fff95c5ecd6a30553e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/abhinav-malik-34992a120/)[![](https://camo.githubusercontent.com/420d9987aff329ec814250dc94ee265a58cb8374b59c026c004287f037bc2672/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d2532333041304130412e7376673f267374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465)  ]()[![](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:parishijainiit@gmail.com) 
 
   
 
